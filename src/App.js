@@ -1,12 +1,20 @@
 import React from "react";
+import Navbar from "./components/Navbar";
 import "./App.css";
+import Home from "./components/pages/Home";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <h1>My Portfolio</h1>
-    </div>
+    <>
+      <Router>
+        <Navbar />
+        <Switch>
+          <Route path="/" exact component={Home} />
+        </Switch>
+      </Router>
+    </>
   );
-}
+};
 
 export default App;

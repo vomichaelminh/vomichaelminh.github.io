@@ -1,0 +1,120 @@
+.resume {
+  color: #fcfcfc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #242424;
+  padding: 60px 0;
+}
+
+.about-me-header {
+  font-size: 35px;
+  padding-bottom: 10px;
+}
+.experience-container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 30px;
+}
+.experience-main {
+  align-items: left;
+  padding-left: 60px;
+  padding-right: 40px;
+}
+.experience-card {
+  border-radius: 0.5em;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
+  padding: 25px 15px;
+  background-color: #4a4a4a;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.experience-pic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 40px;
+}
+
+.exp-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.exp-title {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.exp-info {
+  font-style: italic;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+}
+
+.exp-body {
+  font-size: 14px;
+}
+
+.exp-body-list {
+  list-style-type: disc;
+}
+
+.exp-body-point {
+  margin: 8px;
+}
+
+.exp-pic {
+  width: 50px;
+}
+
+.tag-container {
+  margin: 5px 0 15px 0;
+  font-size: 8px;
+}
+
+.tag:not(body) {
+  align-items: center;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  color: #4a4a4a;
+  display: inline-flex;
+  font-size: 0.75rem;
+  height: 2em;
+  justify-content: center;
+  line-height: 1.5;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  white-space: nowrap;
+}
+
+.tag {
+  margin-right: 5px;
+  margin-top: 5px;
+  justify-content: center;
+}
+
+.tag:hover {
+  background-color: #d5d5d5;
+  color: #2a2a2a;
+}
+
+.button {
+  display: block;
+  margin: 50px auto;
+  font-size: 20px;
+  font-weight: 700;
+  background-color: #fcfcfc;
+  border: none;
+}
+
+.button:hover {
+  background-color: #dddddd;
+}
+
+.resume-link:hover {
+  text-decoration: none;
+}

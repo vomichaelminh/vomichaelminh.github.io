@@ -1,0 +1,91 @@
+.about-section {
+  /* background: url("../../images/profile.jpg") no-repeat right; */
+  background-size: 45%;
+  background-color: #242424;
+  overflow: hidden;
+  padding: 100px 0;
+}
+
+.about-img {
+  margin-top: 50px;
+  height: 500px;
+  width: 100px;
+  transition: 1s;
+  margin-right: 405px;
+  float: right;
+}
+
+.img {
+  /* border-top-right-radius: 15px; */
+  /* border-bottom-right-radius: 15px; */
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  position: absolute;
+  width: 35%;
+}
+
+.about-container {
+  /* display: flex; */
+  /* justify-content: center;
+  align-items: center; */
+  margin-left: 0px;
+  position: absolute;
+  width: 65%;
+  float: left;
+  background-color: #4a4a4a;
+  padding: 150px;
+  position: absolute;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+
+  /* border-top-left-radius: 15px; */
+  /* border-bottom-left-radius: 15px; */
+}
+
+.about-container > h1 {
+  margin-bottom: 30px;
+  font-size: 30px;
+  font-weight: 900;
+  color: white;
+}
+
+.text {
+  font-size: 13px;
+  color: white;
+  line-height: 30px;
+  text-align: justify;
+  margin-bottom: 40px;
+}
+
+.resume-button {
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 13px;
+}
+
+/* 
+@media screen and (max-width: 1200px) {
+  .inner-container {
+    padding: 80px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .about-section {
+    background-size: 100%;
+    padding: 100px 40px;
+  }
+  .inner-container {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .about-section {
+    padding: 0;
+  }
+  .inner-container {
+    padding: 60px;
+  }
+} */
