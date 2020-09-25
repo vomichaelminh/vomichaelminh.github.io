@@ -9,18 +9,17 @@ import email from "../images/email-icon.png";
 function Footer() {
   return (
     <div className="footer-container">
-      <section className="footer-subscription">
-        <p className="footer-subscription-heading">
-          I'd be happy to talk more about myself. Contact me below.
-        </p>
-      </section>
+      <p className="footer-subscription-heading">
+        Feel free to contact me below!
+      </p>
+
       <section class="social-media">
         <div class="social-media-wrap">
           <h1 class="website-rights">© 2020 Michael Vo</h1>
           <div class="social-icons">
             <Link
               class="social-icon-link email"
-              onClick={() => window.open("mailto:michaelminhvo1@gmail.com")}
+              onClick={() => window.open("mailto:vomm@uci.edu")}
               target="_blank"
               aria-label="Email"
             >

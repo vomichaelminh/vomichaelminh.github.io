@@ -39,29 +39,36 @@ function Navbar() {
       <nav className={navbar ? "navbar active" : "navbar"}>
         <div className="navbar-container">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-            MV_LOGO
+            Michael Vo
             {/* <i class="fab fa-typo3" /> */}
           </Link>
         </div>
         <ul className="nav-menu">
           <li className="nav-item">
-            <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+            <Link to="about" className="nav-links" onClick={closeMobileMenu}>
               About
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+            <Link
+              to="experience"
+              className="nav-links"
+              onClick={closeMobileMenu}
+            >
               Experience
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+            <Link to="projects" className="nav-links" onClick={closeMobileMenu}>
               Projects
             </Link>
           </li>
 
           <li className="nav-item">
-            <Link className="nav-links" onClick={closeMobileMenu}>
+            <Link
+              className="nav-links"
+              onClick={() => window.open("mailto:vomm@uci.edu")}
+            >
               Contact
             </Link>
           </li>

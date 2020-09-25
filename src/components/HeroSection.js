@@ -31,7 +31,7 @@ const HeroSection = () => {
           <img
             className="contact"
             src={email}
-            onClick={() => window.open("mailto:michaelminhvo1@gmail.com")}
+            onClick={() => window.open("mailto:vomm@uci.edu")}
             alt="alt"
           />
         </h1>
