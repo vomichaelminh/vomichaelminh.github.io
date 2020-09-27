@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { Button } from "./Button";
-import { Link } from "react-router-dom";
 import "./Navbar.css";
 import logo from "../../src/images/logos.png";
+import { Link, animateScroll as scroll } from "react-scroll";
 
 function Navbar() {
   const [click, setClick] = useState(false);
@@ -17,6 +17,10 @@ function Navbar() {
     } else {
       setButton(true);
     }
+  };
+
+  const scrollToTop = () => {
+    scroll.scrollToTop();
   };
 
   useEffect(() => {
@@ -39,27 +43,47 @@ function Navbar() {
     <>
       <nav className={navbar ? "navbar active" : "navbar"}>
         <div className="navbar-container">
-          <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+          <Link to="/" className="navbar-logo" onClick={scrollToTop}>
             <img src={logo} alt="logo" />
           </Link>
         </div>
         <ul className="nav-menu">
           <li className="nav-item">
-            <Link to="about" className="nav-links" onClick={closeMobileMenu}>
+            <Link
+              activeClass="active"
+              to="about"
+              spy={true}
+              smooth={true}
+              offset={-50}
+              duration={500}
+              className="nav-links"
+            >
               About
             </Link>
           </li>
           <li className="nav-item">
             <Link
+              activeClass="active"
               to="experience"
+              spy={true}
+              smooth={true}
+              offset={-20}
+              duration={500}
               className="nav-links"
-              onClick={closeMobileMenu}
             >
               Experience
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="projects" className="nav-links" onClick={closeMobileMenu}>
+            <Link
+              activeClass="active"
+              to="projects"
+              spy={true}
+              smooth={true}
+              offset={-30}
+              duration={500}
+              className="nav-links"
+            >
               Projects
             </Link>
           </li>

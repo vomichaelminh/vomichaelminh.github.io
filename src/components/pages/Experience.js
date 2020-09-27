@@ -66,7 +66,7 @@ const Experience = () => {
           <div className="experience-main col-sm-10">
             <div className="exp-header">
               <div className="exp-title">
-                <p>UC Irvine School of Information and Computer Sciences</p>
+                <p>UC Irvine School of Information & Computer Sciences</p>
                 <p>Python Lab Instructor</p>
               </div>
               <div className="exp-info">
@@ -92,6 +92,55 @@ const Experience = () => {
                 <div className="tag">Python</div>
                 <div className="tag">HTML</div>
                 <div className="tag">CSS</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="experience-container">
+        <div className="experience-card row">
+          <div className="experience-pic col-sm-2">
+            <a href="/" target="_blank">
+              <img
+                className="exp-pic"
+                src={bluejesticLogo}
+                alt="bluejestic logo"
+              />
+            </a>
+          </div>
+          <div className="experience-main col-sm-10">
+            <div className="exp-header">
+              <div className="exp-title">
+                <p>UC Irvine Student Center & Event Services</p>
+                <p>AV Technician & Operations Crew Leader</p>
+              </div>
+              <div className="exp-info">
+                <p>Irvine, CA</p>
+                <p>September 2018 - Current</p>
+              </div>
+            </div>
+            <div className="exp-body">
+              <ul className="exp-body-list">
+                <li className="exp-body-point">
+                  Increased front-end performance and created pull requests in
+                  Git concerning front-end React & Redux fixes to fit the
+                  company’s CORE design requirements.
+                </li>
+                <li className="exp-body-point">
+                  Developed React higher-order components for authentication and
+                  internationalization, improved software usability by
+                  integrating highly efficient user interfaces.
+                </li>
+                <li className="exp-body-point">
+                  Utilized Material UI to document a library for reusable React
+                  components.
+                </li>
+              </ul>
+              <div className="tag-container">
+                <div className="tag">React.js</div>
+                <div className="tag">HTML</div>
+                <div className="tag">CSS</div>
+                <div className="tag">MongoDB</div>
               </div>
             </div>
           </div>

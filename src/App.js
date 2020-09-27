@@ -11,17 +11,15 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 const App = () => {
   return (
-    <>
-      <Router>
-        <Navbar />
-        <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/about" exact component={About} />
-          <Route path="/experience" exact component={Experience} />
-          <Route path="/projects" exact component={Projects} />
-        </Switch>
-      </Router>
-    </>
+    <Router>
+      <Navbar />
+      <Switch>
+        <Route path="/" exact component={Home} />
+        <Route path="/about" exact component={About} />
+        <Route path="/experience" exact component={Experience} />
+        <Route path="/projects" exact component={Projects} />
+      </Switch>
+    </Router>
   );
 };
 
