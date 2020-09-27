@@ -10,7 +10,7 @@ function Footer() {
   return (
     <div className="footer-container">
       <p className="footer-subscription-heading">
-        Feel free to contact me below!
+        Feel free to contact me below! 🤝
       </p>
 
       <section class="social-media">

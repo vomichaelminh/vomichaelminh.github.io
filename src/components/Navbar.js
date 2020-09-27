@@ -80,7 +80,7 @@ function Navbar() {
               to="projects"
               spy={true}
               smooth={true}
-              offset={-30}
+              offset={-70}
               duration={500}
               className="nav-links"
             >

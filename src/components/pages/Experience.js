@@ -3,6 +3,7 @@ import "../../App.css";
 import "./Experience.css";
 import bluejesticLogo from "../../images/bluejestic.png";
 import uciLogo from "../../images/uci_ics.jpg";
+import scLogo from "../../images/sc.png";
 const Experience = () => {
   return (
     <div id="experience" className="resume container-fluid">
@@ -101,11 +102,7 @@ const Experience = () => {
         <div className="experience-card row">
           <div className="experience-pic col-sm-2">
             <a href="/" target="_blank">
-              <img
-                className="exp-pic"
-                src={bluejesticLogo}
-                alt="bluejestic logo"
-              />
+              <img className="exp-pic" src={scLogo} alt="bluejestic logo" />
             </a>
           </div>
           <div className="experience-main col-sm-10">
@@ -122,25 +119,17 @@ const Experience = () => {
             <div className="exp-body">
               <ul className="exp-body-list">
                 <li className="exp-body-point">
-                  Increased front-end performance and created pull requests in
-                  Git concerning front-end React & Redux fixes to fit the
-                  company’s CORE design requirements.
+                  Operated on audio/visual equipment during events, provided
+                  creative programs consultations and immediate response to
+                  service challenges
                 </li>
                 <li className="exp-body-point">
-                  Developed React higher-order components for authentication and
-                  internationalization, improved software usability by
-                  integrating highly efficient user interfaces.
-                </li>
-                <li className="exp-body-point">
-                  Utilized Material UI to document a library for reusable React
-                  components.
+                  Experience with general operations and administrative support
+                  in professional video and photography environment
                 </li>
               </ul>
               <div className="tag-container">
-                <div className="tag">React.js</div>
-                <div className="tag">HTML</div>
-                <div className="tag">CSS</div>
-                <div className="tag">MongoDB</div>
+                <div className="tag">Audio / Visual</div>
               </div>
             </div>
           </div>
