@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0c787a236ec027ed77b6a581c9fa53d",
+    "revision": "fe17c018c1920aa306db299f2b588525",
     "url": "/vomichaelminh.github.io/index.html"
   },
   {
-    "revision": "891bb6393620e081bc3b",
-    "url": "/vomichaelminh.github.io/static/css/main.3a657ff6.chunk.css"
+    "revision": "d64124a53773e6e55151",
+    "url": "/vomichaelminh.github.io/static/css/main.9db016d8.chunk.css"
   },
   {
-    "revision": "7c7b469e6aa7a14c3a76",
-    "url": "/vomichaelminh.github.io/static/js/2.9ff190df.chunk.js"
+    "revision": "54b74614a493c6a78a3d",
+    "url": "/vomichaelminh.github.io/static/js/2.56eb4e53.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/vomichaelminh.github.io/static/js/2.9ff190df.chunk.js.LICENSE.txt"
+    "url": "/vomichaelminh.github.io/static/js/2.56eb4e53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "891bb6393620e081bc3b",
-    "url": "/vomichaelminh.github.io/static/js/main.f6247098.chunk.js"
+    "revision": "d64124a53773e6e55151",
+    "url": "/vomichaelminh.github.io/static/js/main.e9011d3b.chunk.js"
   },
   {
     "revision": "b43c1c51f93c0a509061",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a08f59f44e32ab5f5fe579b7b4088b97",
     "url": "/vomichaelminh.github.io/static/media/linkedin.a08f59f4.png"
+  },
+  {
+    "revision": "b0d65d13c6659f95b123a13217d23ac5",
+    "url": "/vomichaelminh.github.io/static/media/logos.b0d65d13.png"
   },
   {
     "revision": "1146cf88ffe39a401275a120d73f1058",

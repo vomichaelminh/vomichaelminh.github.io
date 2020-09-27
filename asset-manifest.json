@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/vomichaelminh.github.io/static/css/main.3a657ff6.chunk.css",
-    "main.js": "/vomichaelminh.github.io/static/js/main.f6247098.chunk.js",
-    "main.js.map": "/vomichaelminh.github.io/static/js/main.f6247098.chunk.js.map",
+    "main.css": "/vomichaelminh.github.io/static/css/main.9db016d8.chunk.css",
+    "main.js": "/vomichaelminh.github.io/static/js/main.e9011d3b.chunk.js",
+    "main.js.map": "/vomichaelminh.github.io/static/js/main.e9011d3b.chunk.js.map",
     "runtime-main.js": "/vomichaelminh.github.io/static/js/runtime-main.f4b50337.js",
     "runtime-main.js.map": "/vomichaelminh.github.io/static/js/runtime-main.f4b50337.js.map",
-    "static/js/2.9ff190df.chunk.js": "/vomichaelminh.github.io/static/js/2.9ff190df.chunk.js",
-    "static/js/2.9ff190df.chunk.js.map": "/vomichaelminh.github.io/static/js/2.9ff190df.chunk.js.map",
+    "static/js/2.56eb4e53.chunk.js": "/vomichaelminh.github.io/static/js/2.56eb4e53.chunk.js",
+    "static/js/2.56eb4e53.chunk.js.map": "/vomichaelminh.github.io/static/js/2.56eb4e53.chunk.js.map",
     "index.html": "/vomichaelminh.github.io/index.html",
-    "precache-manifest.e2883e5a6b213055f2800012d5392080.js": "/vomichaelminh.github.io/precache-manifest.e2883e5a6b213055f2800012d5392080.js",
+    "precache-manifest.8cee2987aafa9a6f7d640beda51de688.js": "/vomichaelminh.github.io/precache-manifest.8cee2987aafa9a6f7d640beda51de688.js",
     "service-worker.js": "/vomichaelminh.github.io/service-worker.js",
-    "static/css/main.3a657ff6.chunk.css.map": "/vomichaelminh.github.io/static/css/main.3a657ff6.chunk.css.map",
-    "static/js/2.9ff190df.chunk.js.LICENSE.txt": "/vomichaelminh.github.io/static/js/2.9ff190df.chunk.js.LICENSE.txt",
+    "static/css/main.9db016d8.chunk.css.map": "/vomichaelminh.github.io/static/css/main.9db016d8.chunk.css.map",
+    "static/js/2.56eb4e53.chunk.js.LICENSE.txt": "/vomichaelminh.github.io/static/js/2.56eb4e53.chunk.js.LICENSE.txt",
     "static/media/bluejestic.png": "/vomichaelminh.github.io/static/media/bluejestic.28c4902e.png",
     "static/media/email-icon.png": "/vomichaelminh.github.io/static/media/email-icon.94405fe3.png",
     "static/media/github.svg": "/vomichaelminh.github.io/static/media/github.76d344f0.svg",
     "static/media/img-home.jpg": "/vomichaelminh.github.io/static/media/img-home.369d2a84.jpg",
     "static/media/letsEat.jpg": "/vomichaelminh.github.io/static/media/letsEat.d66c625d.jpg",
     "static/media/linkedin.png": "/vomichaelminh.github.io/static/media/linkedin.a08f59f4.png",
+    "static/media/logos.png": "/vomichaelminh.github.io/static/media/logos.b0d65d13.png",
     "static/media/profile.jpg": "/vomichaelminh.github.io/static/media/profile.1146cf88.jpg",
     "static/media/studyplanner.jpg": "/vomichaelminh.github.io/static/media/studyplanner.1053c0bf.jpg",
     "static/media/uci_ics.jpg": "/vomichaelminh.github.io/static/media/uci_ics.44940eba.jpg",
@@ -25,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f4b50337.js",
-    "static/js/2.9ff190df.chunk.js",
-    "static/css/main.3a657ff6.chunk.css",
-    "static/js/main.f6247098.chunk.js"
+    "static/js/2.56eb4e53.chunk.js",
+    "static/css/main.9db016d8.chunk.css",
+    "static/js/main.e9011d3b.chunk.js"
   ]
 }
