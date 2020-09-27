@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/vomichaelminh.github.io/static/css/main.5b8d9aec.chunk.css",
-    "main.js": "/vomichaelminh.github.io/static/js/main.fa09ae25.chunk.js",
-    "main.js.map": "/vomichaelminh.github.io/static/js/main.fa09ae25.chunk.js.map",
+    "main.js": "/vomichaelminh.github.io/static/js/main.3123103c.chunk.js",
+    "main.js.map": "/vomichaelminh.github.io/static/js/main.3123103c.chunk.js.map",
     "runtime-main.js": "/vomichaelminh.github.io/static/js/runtime-main.f4b50337.js",
     "runtime-main.js.map": "/vomichaelminh.github.io/static/js/runtime-main.f4b50337.js.map",
-    "static/js/2.06edd39d.chunk.js": "/vomichaelminh.github.io/static/js/2.06edd39d.chunk.js",
-    "static/js/2.06edd39d.chunk.js.map": "/vomichaelminh.github.io/static/js/2.06edd39d.chunk.js.map",
+    "static/js/2.106510bb.chunk.js": "/vomichaelminh.github.io/static/js/2.106510bb.chunk.js",
+    "static/js/2.106510bb.chunk.js.map": "/vomichaelminh.github.io/static/js/2.106510bb.chunk.js.map",
     "index.html": "/vomichaelminh.github.io/index.html",
-    "precache-manifest.18402b72f7957bd09ce914f69bda88bb.js": "/vomichaelminh.github.io/precache-manifest.18402b72f7957bd09ce914f69bda88bb.js",
+    "precache-manifest.572e0b539225a438f8301b9ce1870df9.js": "/vomichaelminh.github.io/precache-manifest.572e0b539225a438f8301b9ce1870df9.js",
     "service-worker.js": "/vomichaelminh.github.io/service-worker.js",
     "static/css/main.5b8d9aec.chunk.css.map": "/vomichaelminh.github.io/static/css/main.5b8d9aec.chunk.css.map",
-    "static/js/2.06edd39d.chunk.js.LICENSE.txt": "/vomichaelminh.github.io/static/js/2.06edd39d.chunk.js.LICENSE.txt",
+    "static/js/2.106510bb.chunk.js.LICENSE.txt": "/vomichaelminh.github.io/static/js/2.106510bb.chunk.js.LICENSE.txt",
     "static/media/bluejestic.png": "/vomichaelminh.github.io/static/media/bluejestic.28c4902e.png",
     "static/media/email-icon.png": "/vomichaelminh.github.io/static/media/email-icon.94405fe3.png",
     "static/media/github.svg": "/vomichaelminh.github.io/static/media/github.76d344f0.svg",
@@ -20,14 +20,15 @@
     "static/media/linkedin.png": "/vomichaelminh.github.io/static/media/linkedin.a08f59f4.png",
     "static/media/logos.png": "/vomichaelminh.github.io/static/media/logos.b0d65d13.png",
     "static/media/profile.jpg": "/vomichaelminh.github.io/static/media/profile.1146cf88.jpg",
+    "static/media/sc.png": "/vomichaelminh.github.io/static/media/sc.f5544b23.png",
     "static/media/studyplanner.jpg": "/vomichaelminh.github.io/static/media/studyplanner.1053c0bf.jpg",
     "static/media/uci_ics.jpg": "/vomichaelminh.github.io/static/media/uci_ics.44940eba.jpg",
     "static/media/website.png": "/vomichaelminh.github.io/static/media/website.2f597fb5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f4b50337.js",
-    "static/js/2.06edd39d.chunk.js",
+    "static/js/2.106510bb.chunk.js",
     "static/css/main.5b8d9aec.chunk.css",
-    "static/js/main.fa09ae25.chunk.js"
+    "static/js/main.3123103c.chunk.js"
   ]
 }
