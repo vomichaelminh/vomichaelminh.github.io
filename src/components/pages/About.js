@@ -24,7 +24,7 @@ const About = () => {
           <Button
             onClick={() =>
               window.open(
-                "https://drive.google.com/file/d/1-6rJuIW4VjrrpAc1FpCEaCiwfcJWQCEs/view?usp=sharing"
+                "https://drive.google.com/file/d/1l3cQxtTFdjwDiapwjBVl4WZb22Yo2HIt/view?usp=sharing"
               )
             }
           >
