@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vomichaelminh.github.io/static/css/main.9db016d8.chunk.css",
-    "main.js": "/vomichaelminh.github.io/static/js/main.e9011d3b.chunk.js",
-    "main.js.map": "/vomichaelminh.github.io/static/js/main.e9011d3b.chunk.js.map",
+    "main.css": "/vomichaelminh.github.io/static/css/main.5b8d9aec.chunk.css",
+    "main.js": "/vomichaelminh.github.io/static/js/main.fa09ae25.chunk.js",
+    "main.js.map": "/vomichaelminh.github.io/static/js/main.fa09ae25.chunk.js.map",
     "runtime-main.js": "/vomichaelminh.github.io/static/js/runtime-main.f4b50337.js",
     "runtime-main.js.map": "/vomichaelminh.github.io/static/js/runtime-main.f4b50337.js.map",
-    "static/js/2.56eb4e53.chunk.js": "/vomichaelminh.github.io/static/js/2.56eb4e53.chunk.js",
-    "static/js/2.56eb4e53.chunk.js.map": "/vomichaelminh.github.io/static/js/2.56eb4e53.chunk.js.map",
+    "static/js/2.06edd39d.chunk.js": "/vomichaelminh.github.io/static/js/2.06edd39d.chunk.js",
+    "static/js/2.06edd39d.chunk.js.map": "/vomichaelminh.github.io/static/js/2.06edd39d.chunk.js.map",
     "index.html": "/vomichaelminh.github.io/index.html",
-    "precache-manifest.8cee2987aafa9a6f7d640beda51de688.js": "/vomichaelminh.github.io/precache-manifest.8cee2987aafa9a6f7d640beda51de688.js",
+    "precache-manifest.18402b72f7957bd09ce914f69bda88bb.js": "/vomichaelminh.github.io/precache-manifest.18402b72f7957bd09ce914f69bda88bb.js",
     "service-worker.js": "/vomichaelminh.github.io/service-worker.js",
-    "static/css/main.9db016d8.chunk.css.map": "/vomichaelminh.github.io/static/css/main.9db016d8.chunk.css.map",
-    "static/js/2.56eb4e53.chunk.js.LICENSE.txt": "/vomichaelminh.github.io/static/js/2.56eb4e53.chunk.js.LICENSE.txt",
+    "static/css/main.5b8d9aec.chunk.css.map": "/vomichaelminh.github.io/static/css/main.5b8d9aec.chunk.css.map",
+    "static/js/2.06edd39d.chunk.js.LICENSE.txt": "/vomichaelminh.github.io/static/js/2.06edd39d.chunk.js.LICENSE.txt",
     "static/media/bluejestic.png": "/vomichaelminh.github.io/static/media/bluejestic.28c4902e.png",
     "static/media/email-icon.png": "/vomichaelminh.github.io/static/media/email-icon.94405fe3.png",
     "static/media/github.svg": "/vomichaelminh.github.io/static/media/github.76d344f0.svg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f4b50337.js",
-    "static/js/2.56eb4e53.chunk.js",
-    "static/css/main.9db016d8.chunk.css",
-    "static/js/main.e9011d3b.chunk.js"
+    "static/js/2.06edd39d.chunk.js",
+    "static/css/main.5b8d9aec.chunk.css",
+    "static/js/main.fa09ae25.chunk.js"
   ]
 }
