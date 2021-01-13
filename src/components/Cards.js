@@ -1,7 +1,6 @@
 import React from "react";
 import "./Cards.css";
 import CardItem from "./CardItem";
-import studyPlannerLogo from "../images/studyplanner.jpg";
 import letsEatLogo from "../images/letsEat.jpg";
 import websiteLogo from "../images/website.png";
 
@@ -14,17 +13,16 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src={letsEatLogo}
-              text="Randomly picks a restuarant for you so you don't have to go through all of that deciding"
+              text="Recipe app which helps you keep track of recipes you like and will make."
               label="React.js | Node.js | Express.js | MongoDB"
-              path="https://github.com/vomichaelminh"
-              title="Lets Eat!"
+              path="https://github.com/vomichaelminh/RecipeGo"
+              title="RecipeGo"
             />
             <CardItem
-              src={studyPlannerLogo}
-              text="Study planner designed to help create efficient study sessions"
+              text="Drama tracker, which allows you to keep log of all of the dramas you have watched."
               label="React.js | Node.js | Express.js | MongoDB"
-              path="https://github.com/vomichaelminh"
-              title="StudyPlanner"
+              path="https://github.com/vomichaelminh/DramaMi"
+              title="DramaMi"
             />
             <CardItem
               src={websiteLogo}
